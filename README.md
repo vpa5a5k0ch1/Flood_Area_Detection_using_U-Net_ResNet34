@@ -1,10 +1,10 @@
-# 🌊 Flood Area Segmentation using U-Net + ResNet34
+#  Flood Area Segmentation using U-Net + ResNet34
 
 A deep learning-based image segmentation project for identifying flood-affected regions in satellite or aerial imagery using a U-Net model with a ResNet34 encoder.
 
 ---
 
-## 🧠 Model Overview
+##  Model Overview
 
 This project implements a semantic segmentation model to detect flooded areas from RGB satellite/drone images. The architecture is based on U-Net, enhanced with a ResNet34 encoder pretrained on ImageNet for improved feature extraction.
 
